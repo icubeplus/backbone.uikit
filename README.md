@@ -16,7 +16,7 @@ Look into `examples` directory, execute `npm install` and `bower install` then `
 - [backbone](http://backbonejs.org/)
 - [backbone.pubsub](https://github.com/vash15/pubsub)
 - [backbone.babysitter](https://github.com/marionettejs/backbone.babysitter)
-- [backbone.touch](https://github.com/vash15/backbone.touch)
+- [backbone.touch](https://github.com/icubeplus/backbone.touch)
 - [moment](http://momentjs.com/)
 - [async](https://github.com/caolan/async)
 - [impetus](http://chrisbateman.github.io/impetus/)
