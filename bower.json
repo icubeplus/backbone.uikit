@@ -1,7 +1,7 @@
 {
   "name": "backbone.uikit",
   "version": "2.1.5",
-  "homepage": "https://github.com/vash15/backbone.uikit",
+  "homepage": "https://github.com/icubeplus/backbone.uikit",
   "authors": [
     {
       "name": "Matteo Baggio",
@@ -45,7 +45,7 @@
     "backbone.viewstack": "^2.3.8",
     "moment": "^2.13.0",
     "async": "^1.5.2",
-    "backbone.touch": "https://github.com/vash15/backbone.touch.git#^0.4.3",
+    "backbone.touch": "https://github.com/icubeplus/backbone.touch.git#^0.4.3",
     "search-utils": "^1.0.0",
     "swiper": "~4.5.1"
   },
